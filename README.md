@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PunitKisan
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Web Development And DevOps.
+- 👀 I’m interested in Web Development And DevOps.
 - 🌱 I’m currently learning Java, PHP, Python, Javascript,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter @KisanPunit
