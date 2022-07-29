@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PunitKisan
 - 👀 I’m interested in Web Development And DevOps.
-- 🌱 I’m currently learning Java, PHP, Python, Javascript,
+- 🌱 I’m currently learning React and Data Structure And Algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter @KisanPunit
 
